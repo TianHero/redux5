@@ -184,6 +184,4 @@ export default connect(mapStateToProps, mapDispatchToProps)(TextList);
 
 ```
 
-
 ![avatar](./pic/redux3.png);
-
